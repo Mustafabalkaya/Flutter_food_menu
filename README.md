@@ -13,7 +13,7 @@ This Flutter project is designed to create a food menu application. The app incl
 
 ## Technologies Used
 
-- **Flutter:** Framework used for UI design and application logic.
+- **Flutter:** Framework used for UI design and application Logic.
 - **Dart:** Programming language used for the backend logic of the Flutter app.
 - **Firebase:** Cloud-based solution used for user authentication and storing cart information.
 
